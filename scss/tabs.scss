@@ -1,0 +1,14 @@
+$blue:#10008e;
+$black:#000000;
+$grey:#cccccc;
+
+
+
+@media (max-width: 991px) {
+  .tab-content {
+    >.tab-pane {
+      display: block;
+      opacity: 1;
+    }
+  }
+}
